@@ -8,7 +8,7 @@ I'm a self-taught developer. Enthusiastic to learn some new things. And trying t
 
 * 🌍  I'm based in Taiwan
 * ✉️  You can contact me at [jinher1997@gmail.com](mailto:jinher1997@gmail.com)
-* 🧠  I'm learning React , Zenject , Fastlane , GameCI , Auto Testing...
+* 🧠  I'm learning OOA/OOD , Zenject , Fastlane , GameCI , Auto Testing...
 
 ### Skills
 
