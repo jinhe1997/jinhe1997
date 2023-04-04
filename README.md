@@ -12,4 +12,4 @@ And trying to be a better version of myself.
 
 Let's connect and learn together! 👾
 
-<a href="http://www.github.com/jinher1997"><img src="https://github-readme-stats.vercel.app/api?username=jinher1997&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="jinher1997's GitHub stats" /></a>
+<a href="http://www.github.com/jinhe1997"><img src="https://github-readme-stats.vercel.app/api?username=jinhe1997&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="jinhe1997's GitHub stats" /></a>
